@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Easy Table
-Plugin URI: https://github.com/paulhennell/wordpress-easy-table
+Plugin URI: https://github.com/GekaJeff/wordpress-easy-table
 Description: Create table in post, page, or widget in easy way.
 Author: Paul Hennell, Takien
 Version: 1.10
-Author URI: https://github.com/paulhennell/wordpress-easy-table
-GitHub Plugin URI: https://github.com/paulhennell/wordpress-easy-table
+Author URI: https://github.com/GekaJeff/wordpress-easy-table
+GitHub Plugin URI: https://github.com/GekaJeff/wordpress-easy-table
 */
 
 /*
